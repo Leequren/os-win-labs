@@ -1,0 +1,11 @@
+#pragma once
+void PrintUserName();
+void PrintSystemTime();
+void PrintSystemTimeAsFileTime();
+void PrintWindowsDirectory();
+void ChangeConsoleTextColor();
+void PrintComputerName();
+void PrintSystemPowerStatus();
+void PrintScreenMetrics();
+void PrintSystemDirectory();
+void PrintWindowsVersion();

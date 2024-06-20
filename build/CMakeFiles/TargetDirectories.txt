@@ -1,0 +1,11 @@
+C:/Users/liqul/Projects/cpp/operation_system_labs/build/CMakeFiles/edit_cache.dir
+C:/Users/liqul/Projects/cpp/operation_system_labs/build/CMakeFiles/rebuild_cache.dir
+C:/Users/liqul/Projects/cpp/operation_system_labs/build/lab6/CMakeFiles/run.dir
+C:/Users/liqul/Projects/cpp/operation_system_labs/build/lab6/CMakeFiles/edit_cache.dir
+C:/Users/liqul/Projects/cpp/operation_system_labs/build/lab6/CMakeFiles/rebuild_cache.dir
+C:/Users/liqul/Projects/cpp/operation_system_labs/build/lab6/server/CMakeFiles/server.dir
+C:/Users/liqul/Projects/cpp/operation_system_labs/build/lab6/server/CMakeFiles/edit_cache.dir
+C:/Users/liqul/Projects/cpp/operation_system_labs/build/lab6/server/CMakeFiles/rebuild_cache.dir
+C:/Users/liqul/Projects/cpp/operation_system_labs/build/lab6/client/CMakeFiles/client.dir
+C:/Users/liqul/Projects/cpp/operation_system_labs/build/lab6/client/CMakeFiles/edit_cache.dir
+C:/Users/liqul/Projects/cpp/operation_system_labs/build/lab6/client/CMakeFiles/rebuild_cache.dir
